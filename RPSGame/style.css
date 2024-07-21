@@ -1,0 +1,15 @@
+*{ 
+    padding: 0; 
+    margin: 0;
+}
+body{ 
+    background: #808080;
+    position: relative;
+    align-items: center;
+    
+}
+h1{ 
+    display: grid; 
+    align-items: center;
+    justify-content:center;
+}
